@@ -32,7 +32,7 @@ Beware you may find a lot of school assignments on my GitHub, like websites I've
 
 ## My Current Hardware
 
-### ThinkPad P14s Gen 3 (Main Dev Machine)
+### ThinkPad P14s Gen 3 AMD (Main Dev Machine)
 
 Runs Arch Linux and serves as my primary setup for development and school work.
 
